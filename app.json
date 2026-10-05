@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Автомоё — тестовое",
+    "slug": "automoe-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.automoe.test"
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.automoe.test"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
